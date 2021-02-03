@@ -1,2 +1,2 @@
-weather_api_key="63f0bedb23a18f5d96aa7dc189d69ffa"
+weather_api_key="cc17e073581e10db959b3bb100a1eff9"
 google_api_key= 'AIzaSyB0rJ4drZhDOO1l4f4D9fBA_Bz_VRVANA4'
